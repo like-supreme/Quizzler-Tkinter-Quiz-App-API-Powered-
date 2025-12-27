@@ -72,6 +72,8 @@ git clone https://github.com/your-username/quizzler.git
 pip install requests
 python main.py
 
+! Important
+To load photos, you need to enter the image file path in the `#load images` section of the UI code. Pay attention to the "\" escape sequence. You can write 'r' to make it a raw file, or use the backslash "/".
 
 
 
